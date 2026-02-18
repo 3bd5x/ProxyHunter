@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proxy & Vpn scanner🔥
 
 Developed by **yagami0xx**
@@ -30,3 +31,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/yagami0xx/Proxyvpnscanner.git
 cd ProxyHunter
+=======
+# ProxyHunter
+ProxyHunter is an advanced proxy &amp; VPN intelligence tool for deep IP analysis, geo lookup, DNS leak detection, and smart classification (Datacenter / ISP / VPN). Supports single and bulk scanning with SOCKS5 tunnel
+>>>>>>> 828c7c04d8e6200f35bf8a2fd875b5ef40159728
