@@ -1,0 +1,6 @@
+requests
+colorama
+ipwhois
+pysocks
+pycountry
+pycountry_convert
