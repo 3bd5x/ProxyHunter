@@ -31,7 +31,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/yagami0xx/Proxyvpnscanner.git
 cd ProxyHunter
+python3 proxy_checker.py (Put the file or the proxy with its port)
 =======
 # ProxyHunter
-ProxyHunter is an advanced proxy &amp; VPN intelligence tool for deep IP analysis, geo lookup, DNS leak detection, and smart classification (Datacenter / ISP / VPN). Supports single and bulk scanning with SOCKS5 tunnel
->>>>>>> 828c7c04d8e6200f35bf8a2fd875b5ef40159728
+ProxyHunter is an advanced proxy & VPN intelligence tool for deep IP analysis, geo lookup, DNS leak detection, and smart classification (Datacenter / ISP / VPN). Supports single and bulk scanning with SOCKS5 tunnel.
